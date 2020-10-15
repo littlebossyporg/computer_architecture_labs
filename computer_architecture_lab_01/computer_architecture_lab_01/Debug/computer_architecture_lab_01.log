@@ -1,0 +1,3 @@
+﻿  computer_architecture_lab_01.cpp
+c:\users\elizv\source\repos\computer_architecture_lab_01\computer_architecture_lab_01\computer_architecture_lab_01.cpp(64): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  computer_architecture_lab_01.vcxproj -> C:\Users\elizv\source\repos\computer_architecture_lab_01\Debug\computer_architecture_lab_01.exe
