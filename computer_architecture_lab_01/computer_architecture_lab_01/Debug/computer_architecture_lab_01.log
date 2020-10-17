@@ -1,3 +1,7 @@
 ﻿  computer_architecture_lab_01.cpp
-c:\users\elizv\source\repos\computer_architecture_lab_01\computer_architecture_lab_01\computer_architecture_lab_01.cpp(64): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\elizv\source\repos\computer_architecture_lab_01\computer_architecture_lab_01\computer_architecture_lab_01.cpp(38): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\elizv\source\repos\computer_architecture_lab_01\computer_architecture_lab_01\computer_architecture_lab_01.cpp(47): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+c:\users\elizv\source\repos\computer_architecture_lab_01\computer_architecture_lab_01\computer_architecture_lab_01.cpp(49): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+c:\users\elizv\source\repos\computer_architecture_lab_01\computer_architecture_lab_01\computer_architecture_lab_01.cpp(59): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\elizv\source\repos\computer_architecture_lab_01\computer_architecture_lab_01\computer_architecture_lab_01.cpp(65): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
   computer_architecture_lab_01.vcxproj -> C:\Users\elizv\source\repos\computer_architecture_lab_01\Debug\computer_architecture_lab_01.exe
