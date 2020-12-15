@@ -1,0 +1,7 @@
+﻿  computer_architecture_lab_01.cpp
+c:\users\elizv\source\repos\computer_architecture_lab_01\computer_architecture_lab_01\computer_architecture_lab_01.cpp(33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\elizv\source\repos\computer_architecture_lab_01\computer_architecture_lab_01\computer_architecture_lab_01.cpp(40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\elizv\source\repos\computer_architecture_lab_01\computer_architecture_lab_01\computer_architecture_lab_01.cpp(49): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+c:\users\elizv\source\repos\computer_architecture_lab_01\computer_architecture_lab_01\computer_architecture_lab_01.cpp(50): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+c:\users\elizv\source\repos\computer_architecture_lab_01\computer_architecture_lab_01\computer_architecture_lab_01.cpp(54): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+  computer_architecture_lab_01.vcxproj -> C:\Users\elizv\source\repos\computer_architecture_lab_01\Debug\computer_architecture_lab_01.exe
